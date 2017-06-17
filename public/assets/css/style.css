@@ -1,0 +1,14 @@
+#chat-box {
+	background: black;
+	height: 400px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+p {
+	color : yellow;
+}
+
+#message-form {
+	display: none;
+}
